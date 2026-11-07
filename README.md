@@ -1,4 +1,4 @@
-# Wireless
+# Next-G Wireless Communications
 
 Projects in NextG wireless communications in Applied and Embodied AI Laboratory. 
 
