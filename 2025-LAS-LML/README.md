@@ -1,0 +1,1 @@
+Y. Sun, "The Family of LML Detectors and the Family of LAS Detectors for Massive MIMO Communications," in Innovation in MIMO Technologies, Systems & Antennas (ISBN 978-0-85014-793-3), London, UK: IntechOpen, 2025. (Book chapter, Invited) 
