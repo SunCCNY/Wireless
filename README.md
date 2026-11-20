@@ -1,6 +1,6 @@
 # Next-G Wireless Communications
 
-Projects in NextG wireless communications in Applied and Embodied AI Laboratory. 
+Projects in Next-G wireless communications in Applied and Embodied AI Laboratory. 
 
 ## Folders
 
